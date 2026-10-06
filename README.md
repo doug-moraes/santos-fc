@@ -1,4 +1,4 @@
-# Projeto Santos FC ⚪🖤
+# Projeto Santos FC ⚪
 
 Projeto web desenvolvido como iniciativa pessoal com o objetivo de praticar e aprimorar habilidades de desenvolvimento front-end, focando na estruturação, estilização e criação de uma interface dedicada ao **Santos Futebol Clube**.
 
